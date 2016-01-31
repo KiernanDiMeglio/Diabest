@@ -1,0 +1,12 @@
+PODS:
+  - QuickDialog (1.1.0):
+    - QuickDialog/Core (= 1.1.0)
+  - QuickDialog/Core (1.1.0)
+
+DEPENDENCIES:
+  - QuickDialog
+
+SPEC CHECKSUMS:
+  QuickDialog: 6954450c4c2d003a89fbfee48ec8fa4695436b01
+
+COCOAPODS: 0.39.0
